@@ -1,0 +1,34 @@
+Loan Eligibility Assessment System
+Project Overview
+This project is a Python-based fictional Loan Eligibility Assessment System developed as a programming practice project. The system evaluates customer loan applications against predefined eligibility criteria and generates a clear loan eligibility report.
+Key Features
+The system checks:
+•	Customer age eligibility
+•	Minimum monthly income
+•	Credit score and credit category
+•	Debt-to-Income (DTI) ratio
+•	Existing loan status
+•	Employment status
+•	Requested loan amount
+•	Loan term validity
+•	Overall loan eligibility
+•	Estimated monthly loan repayment
+Python Concepts Demonstrated
+This project demonstrates the use of:
+•	Variables and data types
+•	Comparison and logical operators
+•	if, elif, and else statements
+•	Functions
+•	for loops
+•	while loops
+•	while True and break
+•	Boolean variables
+•	Variable scope
+•	Lists and dictionaries
+•	Basic financial calculations
+•	Formatted output
+Eligibility Rules
+A customer is considered eligible when all required conditions are satisfied, including a valid age of 18–65 years, minimum monthly income of ₦150,000, credit score of at least 650, DTI of no more than 40%, no existing loan, valid employment status, valid loan amount, and an accepted loan term of 6, 12, or 24 months.
+Note: All customer information and financial figures used in this project are fictional and intended strictly for educational and programming practice. The loan repayment calculation is simplified and does not include interest, fees, taxes, or real-world lending conditions.
+
+README.ND
